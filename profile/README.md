@@ -11,3 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+licensing will be handled on a game-by-game basis, so please see the individual respositories for that information.
